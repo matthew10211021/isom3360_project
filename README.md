@@ -1,2 +1,2 @@
-# isom3360_project
-classification project to predict bankruptcy
+# isom3360 project
+## classification project to predict bankruptcy
