@@ -1,0 +1,9 @@
+- Evaluation part: emphasize hyper parameter tuning
+
+- Since class imbalanced, focus on precision and recall over accuracy
+
+- Business ecentric: perform cost analysis (cost between bankrupt and not bankrupt, e.g., investment oss cost)
+Using confusion matrix to decide optimal decision threshold
+
+- Explanation analysis: looking at the coefficient of features in logistic regression, looking at root node of decision tree (or top layers)
+Find out the most informative features and give corresponding explanation
