@@ -1,0 +1,14 @@
+evaluation:
+- accuracy, confucion matrix, Recision and recall, AUC
+
+Handling class imbalance
+- use of "class weight" in different models
+https://www.analyticsvidhya.com/blog/2021/06/5-techniques-to-handle-imbalanced-data-for-a-classification-problem/
+https://www.analyticsvidhya.com/blog/2020/10/improve-class-imbalance-class-weights/
+
+Future improvement: 
+- "generative models" (e.g., over-sample, under-sample), over sample AFTER the train test split, ONLY ON THE TRAINING DATA !
+
+links:
+https://stats.stackexchange.com/questions/340854/random-forest-for-imbalanced-data
+https://machinelearningmastery.com/bagging-and-random-forest-for-imbalanced-classification/
